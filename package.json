@@ -1,0 +1,29 @@
+{
+  "name": "router.js",
+  "description": "Simple Client Side Router for us in both Static (multiple HTML pages) and dynamic (templated via something like Handlebars) web apps",
+  "version": "0.1.0",
+  "homepage": "https://github.com/netpoetica/router.js",
+  "keywords": [
+    "router",
+    "static",
+    "client"
+  ],
+  "component": {
+    "scripts": {
+      "page": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:netpoetica/router.js.git"
+  },
+  "author": {
+    "name": "Keith Rosenberg",
+    "email": "kthrose@netpoetica.com",
+    "url": "github.com/netpoetica"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "simple-server": "~1.0.1"
+  }
+}
